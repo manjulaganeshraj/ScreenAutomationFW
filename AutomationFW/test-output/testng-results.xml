@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57272" started-at="2017-07-08T05:11:23Z" finished-at="2017-07-08T05:12:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57272" started-at="2017-07-08T05:11:23Z" finished-at="2017-07-08T05:12:20Z">
+      <class name="com.sharma.HomePageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="beforeMethod" is-config="true" duration-ms="14054" started-at="2017-07-07T22:11:23Z" finished-at="2017-07-07T22:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="headerLinksTest()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="headerLinksTest" duration-ms="259" started-at="2017-07-07T22:11:37Z" finished-at="2017-07-07T22:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerLinksTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="afterClass" is-config="true" duration-ms="1720" started-at="2017-07-07T22:11:38Z" finished-at="2017-07-07T22:11:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="beforeMethod" is-config="true" duration-ms="15979" started-at="2017-07-07T22:11:39Z" finished-at="2017-07-07T22:11:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="searchTest" duration-ms="8660" started-at="2017-07-07T22:11:55Z" finished-at="2017-07-07T22:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="afterClass" is-config="true" duration-ms="1656" started-at="2017-07-07T22:12:04Z" finished-at="2017-07-07T22:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="beforeMethod" is-config="true" duration-ms="13185" started-at="2017-07-07T22:12:06Z" finished-at="2017-07-07T22:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sliderImagesTest()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="sliderImagesTest" duration-ms="126" started-at="2017-07-07T22:12:19Z" finished-at="2017-07-07T22:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderImagesTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.sharma.HomePageTest@47c62251]" name="afterClass" is-config="true" duration-ms="1585" started-at="2017-07-07T22:12:19Z" finished-at="2017-07-07T22:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.sharma.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

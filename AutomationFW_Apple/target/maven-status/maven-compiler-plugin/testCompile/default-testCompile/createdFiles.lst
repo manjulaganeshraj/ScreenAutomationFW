@@ -1,0 +1,16 @@
+com\apple\demotests\pageobjects\home\PaymentDetails.class
+com\apple\demotests\pageobjects\home\ReviewPage.class
+com\apple\demotests\pageobjects\home\EngravingPage.class
+com\apple\demotests\testlisteners\TestListener.class
+com\apple\demotests\pageobjects\home\HomePage.class
+com\apple\demotests\testpages\TestClass.class
+com\apple\demotests\pageobjects\home\CheckOutPage.class
+com\apple\demotests\pageobjects\home\ShipTo.class
+com\apple\demotests\pageobjects\home\BagCartPage.class
+com\apple\demotests\pageobjects\home\SelectFeaturesPage.class
+com\apple\demotests\page\Page.class
+com\apple\demotests\pageobjects\home\PaymentPage.class
+com\apple\demotests\pageobjects\home\SignInPage.class
+com\apple\demotests\BaseTest\BaseTestClass.class
+com\apple\demotests\pageobjects\home\IPadPage.class
+com\apple\demotests\page\PageInterface.class
